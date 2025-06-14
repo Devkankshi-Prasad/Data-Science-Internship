@@ -1,11 +1,19 @@
-This is my Tableau project: Financial Performance Dashboard.
+# Financial Performance Dashboard (Tableau)
 
-The goal was to visualize financial KPIs like sales, profit, discounts, and COGS across regions and categories.
+## 📌 Project Summary
+Designed an interactive Tableau dashboard to monitor financial KPIs such as sales, profit, discount, and COGS. The dashboard includes filters, charts, and regional breakdowns.
 
-I built interactive dashboards with filters for region, category, and time period. The visuals include KPI cards, area charts, profit maps, and heatmaps for discount intensity.
+## 🧰 Tools Used
+- Tableau (Visualizations, Filters, KPIs)
+- CSV Financial Data
+- PowerPoint for Presentation
 
-Insights revealed that the Technology category performs best in profit, while high discounts reduce overall margins. The dashboard supports strategic business decisions.
+## 📊 Key Insights
+- Technology category drives the most profit.
+- Discounts impact profit margins significantly.
+- Regional views support business strategy optimization.
 
-This project helped me improve data storytelling using Tableau and enhanced my dashboard design skills.
+## 📁 Files
+- `Financial Performance Dashboard.twbx` – Tableau dashboard file
+- `Financial_Performance_Dashboard.pptx` – Project slides
 
-Thank you for watching.
