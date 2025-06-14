@@ -1,11 +1,18 @@
-Hello, here’s a summary of my project on Data Science Job Salaries.
+# Data Science Job Salaries Analysis
 
-This project analyzes salary trends across job titles, company sizes, and locations for data science roles.
+## 📌 Project Summary
+Explores salary trends in the data science domain across job titles, experience levels, company sizes, and locations. Includes regression analysis and salary visualizations.
 
-Through EDA, I found that senior roles command significantly higher salaries, and large companies offer better compensation. I also observed regional differences in pay scales.
+## 🧰 Tools Used
+- Python (Pandas, Seaborn, Scikit-learn)
+- Regression Models
+- HTML Report & PowerPoint
 
-I used regression models to understand salary prediction, and evaluated them using R-squared and MAE.
+## 📊 Key Insights
+- Senior roles command the highest salaries.
+- Large companies pay more than startups.
+- Salary varies widely by region and job title.
 
-The analysis helps job seekers understand market trends and helps HR teams benchmark compensation effectively.
-
-Thank you.
+## 📁 Files
+- `Data_Science_Job_Salaries.html` – Analysis notebook
+- `Data_Science_Job_Salaries_Analysis.pptx` – Presentation report
